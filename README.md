@@ -6,5 +6,5 @@ run these commands on root
 `docker build -t app-name . `
 
 ### for start app
-`docker run -it -p 8080:80 app-name`
+`docker run -it -p 8080:3000 app-name`
 
